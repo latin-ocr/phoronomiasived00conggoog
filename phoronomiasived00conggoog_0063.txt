@@ -1,0 +1,52 @@
+38 DaVrurvus arMosrausCornoau'n. Lmr,
+
+88. Quanquam hor.> leniori simblicilaib sua nullius usus prima
+
+' fronte videatur, in eo tamen omnes quadraturarum ‚methodi fun·
+
+dantur, quod prolixius quidem ostendi posset tam in antiquorum
+methodis quam recentiorum, sed brevitatis gratia id tantum in usu
+, Calculi integralis uno alteroque exemplo illustrabitur. Calculus in·
+, tegralis vel summatorius est inversus calculi differentialis ‚ δι con-
+sistit iri eo, ut inveniatur quantitas A ex indeterminata quadam δε
+constantibus composita, ejus indolis, ut, siloco indeterminata in
+ea substituantur successive eadem indeterminata, sed elemento suo
+simplici, ¹ejusve aplo ‚ 3plo , 4plo, 5 plo &c mutuata inde ex-
+surgant quantitates Β, C, D, E &e quarum differentiae A-B' ,
+B-C, C-D' , D-E &c sint ejusdem formae cum elemento seu
+quantitate infinitesrma summanda ‚ ita ut prima differentia A-B,
+exhibeat ipsam quantitatem differentialem, cujus summa seu ,inte-'
+
+¹ ² grale quaeritur. Ut fi curva quaedam sit¹ quadrandae, cujus axis dica·
+
+tur x, δε ordinata ad hunc axem y, ita ut areae, elementum futu7
+rum sit ydx. Area ipsa invenietur‚s1 haberi possit ‚quadam quanti-
+tas A ex indeterminata x ὅ( quantitatibus datis seu constantibus
+composita , itaque comparata, ut,s1 in ea substituantur loco indeter-
+minatae ,νς aliae x-dx, x-'zdx, x-3dx, x-4Ax &sic deinceps
+in infinitum, inde proveniant magnitudines B, C ,D , E , &e ,qua-
+ttun prima differentia.A-B det ydx,·secun'daB-C det secundum
+elementum areae ydx in quo ordinata y jam respondeat non axi x sed
+axi x-dx, suo seilicet elemento dx imminuto, atque fic de reli·
+quis respesbive. Hac enim ratione perspicuum est, omnes A-B‚
+
+‚C ,. C·- D &e exhibere aggregatum omnium ydx,quae 'in area
+
+· . eontinentur, seu hanc aream ilqsam3 jam siin serie quantitatum de·.
+
+crescentium A, B, C, D, &e minima dicatur· M, a'rea ,quaef
+fita, juxta Lemma (§. 87.) perpetuo erit A-M‚& sr contingat·,'ut ,
+aliquando M sit Ο ,tunc area aequatur ipsi A. Minima verb quan·
+titas M semper habebitur ex Maxima A, sr scilicet loco indetermi-
+natae x substituatur in ea x-ndx , ubi n est numerus elementorum,
+in quae axis divisus est, adeo ut ndasnzx, vel quod eodem re·
+cidit, sr loco x ibi substituatur o, quandoquidem x-kndx est οξ
+quantitasque ex hac substitutione resultans erit minima Μ. Unde
+, si contigat ut, sada substitutione ipsius o loco indeterminatae x in
+
+. Α quantitate A, hac evanescat, tuncM eritzo, atque adeo area
+
+qute-
+
+ 
+
